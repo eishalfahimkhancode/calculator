@@ -1,2 +1,12 @@
-# calculator
-git commit -m "Initial commit with calculator code"
+# Calculator Project
+
+This is a simple calculator built using Python.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## How to run
+python calculator.py
