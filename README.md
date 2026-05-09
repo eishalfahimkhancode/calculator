@@ -1,12 +1,10 @@
-# Calculator Project
+## About
+A beginner Python calculator project.
 
-This is a simple calculator built using Python.
+## Tech Used
+- Python
 
-## Features
-- Addition
-- Subtraction
-- Multiplication
-- Division
-
-## How to run
-python calculator.py
+## Future Improvements
+- GUI calculator
+- Scientific functions
+- History feature
